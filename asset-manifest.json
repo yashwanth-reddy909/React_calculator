@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/yashwanth-reddy909/React_calculator/static/css/main.19888e29.chunk.css",
-    "main.js": "/yashwanth-reddy909/React_calculator/static/js/main.19d7b953.chunk.js",
-    "main.js.map": "/yashwanth-reddy909/React_calculator/static/js/main.19d7b953.chunk.js.map",
-    "runtime-main.js": "/yashwanth-reddy909/React_calculator/static/js/runtime-main.f415e20f.js",
-    "runtime-main.js.map": "/yashwanth-reddy909/React_calculator/static/js/runtime-main.f415e20f.js.map",
-    "static/js/2.f9a8d106.chunk.js": "/yashwanth-reddy909/React_calculator/static/js/2.f9a8d106.chunk.js",
-    "static/js/2.f9a8d106.chunk.js.map": "/yashwanth-reddy909/React_calculator/static/js/2.f9a8d106.chunk.js.map",
-    "static/js/3.ea0b4eee.chunk.js": "/yashwanth-reddy909/React_calculator/static/js/3.ea0b4eee.chunk.js",
-    "static/js/3.ea0b4eee.chunk.js.map": "/yashwanth-reddy909/React_calculator/static/js/3.ea0b4eee.chunk.js.map",
-    "index.html": "/yashwanth-reddy909/React_calculator/index.html",
-    "static/css/main.19888e29.chunk.css.map": "/yashwanth-reddy909/React_calculator/static/css/main.19888e29.chunk.css.map",
-    "static/js/2.f9a8d106.chunk.js.LICENSE.txt": "/yashwanth-reddy909/React_calculator/static/js/2.f9a8d106.chunk.js.LICENSE.txt"
+    "main.css": "/React_calculator/static/css/main.19888e29.chunk.css",
+    "main.js": "/React_calculator/static/js/main.19d7b953.chunk.js",
+    "main.js.map": "/React_calculator/static/js/main.19d7b953.chunk.js.map",
+    "runtime-main.js": "/React_calculator/static/js/runtime-main.11e2ee09.js",
+    "runtime-main.js.map": "/React_calculator/static/js/runtime-main.11e2ee09.js.map",
+    "static/js/2.f9a8d106.chunk.js": "/React_calculator/static/js/2.f9a8d106.chunk.js",
+    "static/js/2.f9a8d106.chunk.js.map": "/React_calculator/static/js/2.f9a8d106.chunk.js.map",
+    "static/js/3.ea0b4eee.chunk.js": "/React_calculator/static/js/3.ea0b4eee.chunk.js",
+    "static/js/3.ea0b4eee.chunk.js.map": "/React_calculator/static/js/3.ea0b4eee.chunk.js.map",
+    "index.html": "/React_calculator/index.html",
+    "static/css/main.19888e29.chunk.css.map": "/React_calculator/static/css/main.19888e29.chunk.css.map",
+    "static/js/2.f9a8d106.chunk.js.LICENSE.txt": "/React_calculator/static/js/2.f9a8d106.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f415e20f.js",
+    "static/js/runtime-main.11e2ee09.js",
     "static/js/2.f9a8d106.chunk.js",
     "static/css/main.19888e29.chunk.css",
     "static/js/main.19d7b953.chunk.js"
